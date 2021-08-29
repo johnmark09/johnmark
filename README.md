@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, adventures and tech
 - 🌱 I’m currently learning some coding lessons
 - 💞️ I’m looking to collaborate on some project
-- 📫 How to reach me, dm at facebook or instagram @John Maek Pinto
+- 📫 How to reach me, dm at facebook or instagram @John Mark Pinto
 
 <!---
 johnmark09/johnmark09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
